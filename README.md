@@ -1,9 +1,5 @@
 # RandomNoteSequencerVST. A Random Note Sequencer Plugin
 
-### RandomNoteSequencerPlugin is a simple VST MIDI sequencer plugin that outputs random notes on the DAW clock.
-
-
-
 This is a simple VST MIDI sequencer plugin that outputs random notes on the DAW clock. The plugin is written in C++, and it uses the VST SDK to interface with the host DAW.
 
 ## Installation
